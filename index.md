@@ -13,14 +13,10 @@ I'm well-versed in computer science theory and software engineering fundamentals
 
 ### Cool Things I Do
 
-I've built a way to connect to your favorite language learning mascot, Duo, that pesky bird from Duolingo. So now you can learn "café, con o sin azúcar?," without opening a web browser. Its built with my ol'reliable language, Python.
+I've built a way to connect to your favorite language learning mascot, Duo. So now you can learn "café, con o sin azúcar?," without opening a web browser. Its built with my ol'reliable language, Python.
 
 [Github](https://github.com/normandy14/duoTerminal)
 
-I like throwbacks like Pokemon and Digimon, so I took over an unmaintained project from 2015 and gave its codebase some love and its UI a makeover. I've also added some features. I also give myself some brownie points for using React; it's the rave in front development these days. 
+I like throwbacks like Pokemon and Digimon, so I took over an unmaintained project from 2015 and gave its codebase some love. I've also added some features. I also give myself some brownie points for using React. It's the rave in front development these days. 
 
 [Github](https://github.com/normandy14/yugiohCardPreview)
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
