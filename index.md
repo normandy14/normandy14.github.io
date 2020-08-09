@@ -3,9 +3,17 @@
 
 ### Why Me
 
-Software developer with background in economics and startups focused on creating business value,
-with focus on creating web applications to increase customer sales and customer retention.
-Minimize risk by using simple tech stacks, and by collaborating with shareholder(s) with iterative milestones.
+I'm a Software developer with a background in economics and startups. I focus on creating business value. I create web apps to increase customer engagement.
+
+### Meat and Potatoes
+
+I write good software. Good software uses modern technologies. It is well-supported and robust. It is modular and extendible.
+
+I'm well-versed in computer science theory and software engineering fundamentals. I have 3 years in applied software development experience. I've built alot of software! I'm a proactive in keeping up with the latest software development trends.
+
+### Cool Things I Do
+
+[Business Description] + [Tech Description]
 
 ```markdown
 Syntax highlighted code block
