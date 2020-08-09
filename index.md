@@ -15,6 +15,10 @@ I'm well-versed in computer science theory and software engineering fundamentals
 
 [Business Description] + [Tech Description]
 
+I've built a way to connect to your favorite language learning mascot, Duo, that pesky bird from Duolingo. So now you can learn "café, con o sin azúcar?," without opening a web browser.
+
+I like throwbacks like Pokemon and Digimon, so I took over an unmaintained project from 2015 and gave its codebase some love and its UI a makeover. I've also added some features. I also give myself some brownie points for using React; it's the rave in front development these days. 
+
 ```markdown
 Syntax highlighted code block
 
