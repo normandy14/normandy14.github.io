@@ -13,35 +13,13 @@ I'm well-versed in computer science theory and software engineering fundamentals
 
 ### Cool Things I Do
 
-[Business Description] + [Tech Description]
+I've built a way to connect to your favorite language learning mascot, Duo, that pesky bird from Duolingo. So now you can learn "café, con o sin azúcar?," without opening a web browser. Its built with my ol'reliable language, Python.
 
-I've built a way to connect to your favorite language learning mascot, Duo, that pesky bird from Duolingo. So now you can learn "café, con o sin azúcar?," without opening a web browser.
+![Image](https://camo.githubusercontent.com/c0135377d857d89b040c165756ec41f332ba9839/68747470733a2f2f7669676e657474652e77696b69612e6e6f636f6f6b69652e6e65742f64756f6c696e676f2f696d616765732f622f62652f44756f5f323031392e706e672f7265766973696f6e2f6c61746573743f63623d3230313930333037313433373034) and [Github](https://github.com/normandy14/duoTerminal) 
 
 I like throwbacks like Pokemon and Digimon, so I took over an unmaintained project from 2015 and gave its codebase some love and its UI a makeover. I've also added some features. I also give myself some brownie points for using React; it's the rave in front development these days. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/normandy14/normand14.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Github](https://github.com/normandy14/yugiohCardPreview) 
 
 ### Support or Contact
 
